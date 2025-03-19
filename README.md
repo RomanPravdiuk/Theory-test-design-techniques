@@ -1,3 +1,3 @@
 # Theory/test design techniques
 ## What I know
-# :point_up: [Notes](https://github.com/RomanPravdiuk/Theory-test-design-techniques/blob/main/Theory%2C%20test%20design%20techniques%(1).pdf)
+# :point_up: [Notes](https://drive.google.com/file/d/1PN_b6ICKgMX01hxTfvbK6QJtbRVNHsXk/view?usp=drive_link)
